@@ -1,6 +1,6 @@
 # Characterising Household Energy Behaviour in the Presence of PV and EV Technologies
 
-> **Note:** Due to GitHub's file size limitations, input data is not included in this repository.
+**Note:** Due to GitHub's file size limitations, input data is not included in this repository.
 
 ---
 
